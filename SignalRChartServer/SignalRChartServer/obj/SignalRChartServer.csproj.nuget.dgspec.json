@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gani/Desktop/Github/SignalRChartProject/SignalRChartProject/SignalRChartServer/SignalRChartServer/SignalRChartServer.csproj": {}
+    "/Users/gani/Desktop/Github/SignalR_ChartProject/SignalRChartServer/SignalRChartServer/SignalRChartServer.csproj": {}
   },
   "projects": {
-    "/Users/gani/Desktop/Github/SignalRChartProject/SignalRChartProject/SignalRChartServer/SignalRChartServer/SignalRChartServer.csproj": {
+    "/Users/gani/Desktop/Github/SignalR_ChartProject/SignalRChartServer/SignalRChartServer/SignalRChartServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gani/Desktop/Github/SignalRChartProject/SignalRChartProject/SignalRChartServer/SignalRChartServer/SignalRChartServer.csproj",
+        "projectUniqueName": "/Users/gani/Desktop/Github/SignalR_ChartProject/SignalRChartServer/SignalRChartServer/SignalRChartServer.csproj",
         "projectName": "SignalRChartServer",
-        "projectPath": "/Users/gani/Desktop/Github/SignalRChartProject/SignalRChartProject/SignalRChartServer/SignalRChartServer/SignalRChartServer.csproj",
+        "projectPath": "/Users/gani/Desktop/Github/SignalR_ChartProject/SignalRChartServer/SignalRChartServer/SignalRChartServer.csproj",
         "packagesPath": "/Users/gani/.nuget/packages/",
-        "outputPath": "/Users/gani/Desktop/Github/SignalRChartProject/SignalRChartProject/SignalRChartServer/SignalRChartServer/obj/",
+        "outputPath": "/Users/gani/Desktop/Github/SignalR_ChartProject/SignalRChartServer/SignalRChartServer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gani/.nuget/NuGet/NuGet.Config"

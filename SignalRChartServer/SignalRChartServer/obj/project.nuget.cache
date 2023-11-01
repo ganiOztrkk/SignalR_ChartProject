@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YGx14rn9iZiH7mYdAdydiBZEaEIjzCy3tTEqneB9ZXrJfjUoi7vDy6Vr9GfiSAHoZ8rznH6y6TKc0UJydTvGPg==",
+  "dgSpecHash": "aPMp2gVsU6WW1kZpiHrpAhULgD6ZNWYYeLXmr4Ul2I6GRvF1yj2ujdfw7NnVkX0I7WJeZvlz22MgXZglm8glGg==",
   "success": true,
-  "projectFilePath": "/Users/gani/Desktop/Github/SignalRChartProject/SignalRChartProject/SignalRChartServer/SignalRChartServer/SignalRChartServer.csproj",
+  "projectFilePath": "/Users/gani/Desktop/Github/SignalR_ChartProject/SignalRChartServer/SignalRChartServer/SignalRChartServer.csproj",
   "expectedPackageFiles": [
     "/Users/gani/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/gani/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
